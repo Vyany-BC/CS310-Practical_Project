@@ -1,0 +1,85 @@
+file,ingredients,n_ingredients,background,touching,other_items
+photo_001.jpg,banana;carrot,2,bowl,no,none
+photo_002.jpg,carrot;cucumber,2,bowl,yes,none
+photo_003.jpg,apple;bell pepper;cucumber,3,bowl,no,none
+photo_004.jpg,apple;banana;bell pepper,3,bowl,yes,none
+photo_005.jpg,apple;banana;bell pepper;orange,4,bowl,yes,none
+photo_006.jpg,apple;banana;bell pepper;carrot,4,bowl,yes,none
+photo_007.jpg,apple;bell pepper;cucumber,3,bowl,yes,none
+photo_008.jpg,lettuce;orange;pear,3,shopping cart,yes,none
+photo_009.jpg,apple;pear,2,dark counter,yes,none
+photo_010.jpg,apple;orange,2,dark counter,yes,none
+photo_011.jpg,raddish;spinach,2,market display,yes,none
+photo_013.jpg,lettuce;mango,2,granite counter,yes,zucchini
+photo_014.jpg,lettuce;mango;onion,3,granite counter,yes,zucchini
+photo_015.jpg,mango;onion;tomato,3,granite counter,yes,zucchini
+photo_016.jpg,onion;potato;tomato,3,granite counter,no,zucchini
+photo_017.jpg,onion;potato;tomato,3,granite counter,no,none
+photo_018.jpg,onion;potato,2,granite counter,yes,none
+photo_020.jpg,banana;onion,2,bowl,yes,none
+photo_022.jpg,apple;beetroot,2,bowl,yes,yellow squash
+photo_023.jpg,beetroot;pear,2,bowl,yes,yellow squash
+photo_024.jpg,beetroot;pear,2,bowl,yes,none
+photo_025.jpg,cucumber;lettuce,2,wood table,no,none
+photo_026.jpg,banana;cucumber;lettuce,3,wood table,yes,none
+photo_028.jpg,onion;potato,2,wood table,no,zucchini
+photo_031.jpg,bell pepper;grapes,2,wood table,yes,yellow squash
+photo_032.jpg,apple;grapes;lettuce;pear,4,wood table,yes,none
+photo_033.jpg,apple;grapes;mango,3,wood table,yes,none
+photo_034.jpg,apple;grapes;potato,3,wood table,yes,none
+photo_035.jpg,apple;onion;potato,3,wood table,yes,none
+photo_036.jpg,beetroot;onion,2,wood table,no,none
+photo_037.jpg,apple;onion;orange,3,wood table,yes,none
+photo_038.jpg,apple;onion;tomato,3,wood table,yes,none
+photo_039.jpg,onion;tomato,2,wood table,no,none
+photo_040.jpg,bell pepper;potato,2,paper towel,no,none
+photo_042.jpg,bell pepper;potato,2,paper towel,yes,zucchini
+photo_047.jpg,bell pepper;onion,2,paper towel,yes,none
+photo_048.jpg,apple;bell pepper;onion,3,paper towel,yes,none
+photo_049.jpg,apple;onion,2,paper towel,no,none
+photo_050.jpg,apple;onion,2,paper towel,yes,none
+photo_051.jpg,apple;onion,2,paper towel,yes,yellow squash
+photo_052.jpg,apple;bell pepper;onion,3,paper towel,yes,none
+photo_053.jpg,bell pepper;onion,2,paper towel,yes,none
+photo_054.jpg,apple;bell pepper;potato,3,paper towel,no,none
+photo_055.jpg,apple;bell pepper;onion;potato,4,paper towel,yes,none
+photo_056.jpg,apple;beetroot;onion;potato,4,paper towel,yes,none
+photo_057.jpg,apple;beetroot;onion,3,paper towel,yes,none
+photo_058.jpg,apple;beetroot,2,paper towel,no,none
+photo_059.jpg,apple;lettuce,2,paper towel,yes,none
+photo_060.jpg,apple;lettuce,2,paper towel,yes,zucchini
+photo_061.jpg,apple;lettuce;orange,3,paper towel,yes,none
+photo_062.jpg,cucumber;lettuce;tomato,3,paper towel,yes,none
+photo_063.jpg,lettuce;mango;pear,3,paper towel,yes,none
+photo_064.jpg,lettuce;mango,2,paper towel,yes,none
+photo_066.jpg,beetroot;lettuce,2,paper towel,yes,none
+photo_067.jpg,lettuce;potato,2,paper towel,yes,none
+photo_068.jpg,lettuce;potato,2,paper towel,yes,none
+photo_069.jpg,bell pepper;potato,2,paper towel,no,none
+photo_070.jpg,bell pepper;onion,2,paper towel,no,none
+photo_071.jpg,bell pepper;orange,2,paper towel,no,none
+photo_073.jpg,bell pepper;pear,2,paper towel,no,none
+photo_074.jpg,bell pepper;onion,2,paper towel,yes,none
+photo_076.jpg,bell pepper;potato,2,paper towel,yes,none
+photo_077.jpg,bell pepper;onion,2,paper towel,yes,none
+photo_078.jpg,beetroot;bell pepper,2,paper towel,yes,none
+photo_079.jpg,apple;bell pepper,2,paper towel,yes,none
+photo_080.jpg,apple;onion,2,paper towel,yes,none
+photo_082.jpg,apple;mango,2,paper towel,yes,none
+photo_083.jpg,apple;mango,2,paper towel,yes,zucchini
+photo_084.jpg,mango;tomato,2,paper towel,yes,zucchini
+photo_085.jpg,cucumber;mango,2,paper towel,yes,zucchini
+photo_086.jpg,beetroot;mango,2,paper towel,yes,zucchini
+photo_088.jpg,mango;tomato,2,paper towel,yes,zucchini;yellow squash
+photo_089.jpg,cucumber;mango,2,paper towel,yes,zucchini;yellow squash
+photo_090.jpg,grapes;mango,2,paper towel,no,none
+photo_091.jpg,apple;grapes,2,paper towel,no,none
+photo_092.jpg,apple;grapes,2,paper towel,yes,zucchini
+photo_093.jpg,apple;grapes;pear,3,paper towel,yes,zucchini
+photo_094.jpg,bell pepper;grapes,2,paper towel,yes,none
+photo_095.jpg,grapes;onion,2,paper towel,yes,none
+photo_096.jpg,grapes;lettuce,2,paper towel,yes,none
+photo_097.jpg,bell pepper;cucumber;grapes,3,paper towel,yes,none
+photo_098.jpg,bell pepper;grapes;orange;tomato,4,paper towel,yes,none
+photo_099.jpg,bell pepper;cucumber;tomato,3,paper towel,no,none
+photo_100.jpg,beetroot;bell pepper;cucumber,3,paper towel,yes,none
